@@ -226,6 +226,7 @@ header nav ul li .active {
 .about .description p {
   color: #fbfbfb;
   font-size: 20px;
+  text-align: justify;
 }
 
 .about .description p span {
